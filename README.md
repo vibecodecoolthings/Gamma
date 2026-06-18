@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-06-18 23:30 UTC_
+_Last updated 2026-06-18 23:51 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-06-18 23:30 UTC_
 | Take profit | 60% |
 | Stop loss | -30% |
 | Risk per trade | 20% |
-| Adaptive bias | 0.103 |
+| Adaptive bias | 0.104 |
 
 ## Learning state
 
-- Closed trades: **45**
+- Closed trades: **46**
 - Win rate (last 30): **40%**
-- Win / loss streak: **0** / **7**
+- Win / loss streak: **0** / **8**
 - Mutations adopted: **0**
-- SOL balance: **0.351**
-- Dominant emotions: anticipation 99, fear 67, sadness 50
+- SOL balance: **0.401**
+- Dominant emotions: anticipation 95, fear 63, sadness 47
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
+| $MORTGAGE | -2.0% | 15m |
 | $MORTGAGE | -16.0% | 16m |
 | $House | -6.0% | 16m |
 | $MORTGAGE | -51.0% | 7m |
 | $House | -31.0% | 4m |
 | $clitcoin | -22.0% | 16m |
-| $BULLY | -38.0% | 11m |
