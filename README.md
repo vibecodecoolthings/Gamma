@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-06-19 14:38 UTC_
+_Last updated 2026-06-19 14:58 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-06-19 14:38 UTC_
 | Take profit | 60% |
 | Stop loss | -30% |
 | Risk per trade | 20% |
-| Adaptive bias | 0.075 |
+| Adaptive bias | 0.013 |
 
 ## Learning state
 
-- Closed trades: **48**
+- Closed trades: **51**
 - Win rate (last 30): **40%**
-- Win / loss streak: **2** / **0**
+- Win / loss streak: **0** / **2**
 - Mutations adopted: **0**
-- SOL balance: **0.263**
-- Dominant emotions: anticipation 99, joy 72, trust 55
+- SOL balance: **0.343**
+- Dominant emotions: anticipation 99, joy 59, trust 51
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
+| $PIZZA | -19.0% | 16m |
+| $PIZZA | -16.0% | 15m |
+| $PIZZA | +114.0% | 10m |
 | $greg | +15.0% | 16m |
 | $greg | +17.0% | 15m |
 | $MORTGAGE | -2.0% | 15m |
-| $MORTGAGE | -16.0% | 16m |
-| $House | -6.0% | 16m |
-| $MORTGAGE | -51.0% | 7m |
