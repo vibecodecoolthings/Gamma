@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-06-26 14:19 UTC_
+_Last updated 2026-06-26 14:40 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-06-26 14:19 UTC_
 | Take profit | 60% |
 | Stop loss | -30% |
 | Risk per trade | 20% |
-| Adaptive bias | 0.109 |
+| Adaptive bias | 0.115 |
 
 ## Learning state
 
-- Closed trades: **105**
-- Win rate (last 30): **33%**
-- Win / loss streak: **0** / **13**
+- Closed trades: **106**
+- Win rate (last 30): **30%**
+- Win / loss streak: **0** / **14**
 - Mutations adopted: **0**
-- SOL balance: **0.168**
-- Dominant emotions: anticipation 98, joy 57, trust 50
+- SOL balance: **0.158**
+- Dominant emotions: anticipation 98, joy 52, fear 49
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
+| $Joobi | -45.0% | 16m |
 | $MEOWTINE | -5.0% | 15m |
 | $MEOWTINE | -39.0% | 3m |
 | $MEOWTINE | -31.0% | 4m |
 | $Bad | -4.0% | 15m |
 | $Mamesuke | -28.0% | 16m |
-| $Mamesuke | -37.0% | 4m |
