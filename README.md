@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-07-02 03:20 UTC_
+_Last updated 2026-07-02 03:40 UTC_
 
 ## Current strategy
 
@@ -21,20 +21,20 @@ _Last updated 2026-07-02 03:20 UTC_
 
 ## Learning state
 
-- Closed trades: **509**
-- Win rate (last 30): **60%**
-- Win / loss streak: **0** / **4**
+- Closed trades: **510**
+- Win rate (last 30): **57%**
+- Win / loss streak: **0** / **5**
 - Mutations adopted: **1**
-- SOL balance: **2033.144**
-- Dominant emotions: anticipation 99, fear 54, joy 50
+- SOL balance: **2405.338**
+- Dominant emotions: anticipation 95, fear 56, trust 48
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
+| $USBC | -1.0% | 16m |
 | $USBC | -1.0% | 15m |
 | $USBC | -16.0% | 15m |
 | $USBC | -33.0% | 11m |
 | $USBC | -36.0% | 10m |
 | $USBC | +39.0% | 16m |
-| $USBC | -43.0% | 4m |
