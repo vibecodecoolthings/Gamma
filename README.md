@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-07-03 15:21 UTC_
+_Last updated 2026-07-03 15:42 UTC_
 
 ## Current strategy
 
@@ -26,7 +26,7 @@ _Last updated 2026-07-03 15:21 UTC_
 - Win / loss streak: **7** / **0**
 - Mutations adopted: **1**
 - SOL balance: **4534.885**
-- Dominant emotions: anticipation 92, joy 81, trust 60
+- Dominant emotions: anticipation 90, joy 78, trust 58
 
 ## Recent closed trades
 
