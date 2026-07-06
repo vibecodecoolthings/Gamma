@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-07-06 01:36 UTC_
+_Last updated 2026-07-06 01:56 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-07-06 01:36 UTC_
 | Take profit | 60% |
 | Stop loss | -30% |
 | Risk per trade | 24% |
-| Adaptive bias | 0.006 |
+| Adaptive bias | 0.003 |
 
 ## Learning state
 
-- Closed trades: **1161**
-- Win rate (last 30): **47%**
-- Win / loss streak: **1** / **0**
+- Closed trades: **1165**
+- Win rate (last 30): **53%**
+- Win / loss streak: **2** / **0**
 - Mutations adopted: **2**
-- SOL balance: **1273486220018.673**
-- Dominant emotions: anticipation 100, fear 76, sadness 59
+- SOL balance: **1249561649219.295**
+- Dominant emotions: anticipation 100, fear 66, joy 56
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
+| $BREAD | +4.0% | 16m |
+| $Catchua | +0.0% | 15m |
+| $motion | -3.0% | 15m |
+| $motion | +0.0% | 15m |
 | $AnsemArt | +0.0% | 15m |
 | $motion | -1.0% | 16m |
-| $motion | -1.0% | 16m |
-| $HOTELCHAD | -13.0% | 15m |
-| $BREAD | +6.0% | 15m |
-| $TeeCoi | +0.0% | 16m |
