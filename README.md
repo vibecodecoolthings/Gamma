@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-07-07 04:52 UTC_
+_Last updated 2026-07-07 05:13 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-07-07 04:52 UTC_
 | Take profit | 60% |
 | Stop loss | -30% |
 | Risk per trade | 24% |
-| Adaptive bias | 0.009 |
+| Adaptive bias | 0.002 |
 
 ## Learning state
 
-- Closed trades: **1428**
-- Win rate (last 30): **30%**
+- Closed trades: **1433**
+- Win rate (last 30): **40%**
 - Win / loss streak: **1** / **0**
 - Mutations adopted: **3**
-- SOL balance: **67355955308.453**
-- Dominant emotions: anticipation 99, fear 62, joy 57
+- SOL balance: **62964713445.376**
+- Dominant emotions: anticipation 100, joy 70, trust 58
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
-| $SAPIJIJU | +13.0% | 16m |
-| $Sapijiju | -30.0% | 11m |
-| $LEVI | -5.0% | 15m |
+| $개죽이 | +0.0% | 16m |
+| $SAPIJIJU | -2.0% | 16m |
+| $Sapijiju | -4.0% | 16m |
 | $UnsTable | +0.0% | 16m |
-| $ANSEM | -2.0% | 16m |
-| $Sapijiju | -2.0% | 15m |
+| $LEVI | +24.0% | 16m |
+| $SAPIJIJU | +13.0% | 16m |
